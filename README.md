@@ -25,7 +25,8 @@ The app streamlines the sales and inventory process for a small business:
 
 ## 🎥 Project Demo
 
-> 🎥 [Download Walkthrough Video](Power%20Platform%20Walkthrough.mp4) > 📹 [Walkthrough Video](#) *(https://youtu.be/bPOrDhphEek)*
+> 🎥 [Download Walkthrough Video](Power%20Platform%20Walkthrough.mp4) > 🎥 [Watch Demo Video](https://youtu.be/bPOrDhphEek)
+
 
 
 ---
