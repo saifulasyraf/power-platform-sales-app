@@ -10,6 +10,7 @@ This project was developed as part of the **Microsoft Power Up Program**. It sim
 ## 📦 Project Overview
 
 The app streamlines the sales and inventory process for a small business:
+- Staff organize store inventory using Power App
 - Customers place orders using a Power App interface
 - Orders trigger email notifications via Power Automate
 - Sales data is tracked and visualized using a Power BI dashboard
@@ -21,13 +22,14 @@ The app streamlines the sales and inventory process for a small business:
 - **Power Apps** – For creating a custom sales and inventory app  
 - **Power Automate** – For triggering automatic email confirmations  
 - **Power BI** – For designing a dashboard to monitor sales metrics  
-- **Microsoft Excel / Dataverse** – For storing inventory and sales data  
+- **Dataverse** – For storing inventory and sales data  
 
 ---
 
 ## 🎥 Project Demo
 
-> 📹 [Walkthrough Video](#) *(Upload to YouTube/Drive and insert the link here)*
+> 🎥 [Download Walkthrough Video](Power%20Platform%20Walkthrough.mp4)
+
 
 ---
 
