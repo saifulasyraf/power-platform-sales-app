@@ -1,6 +1,3 @@
-# power-platform-sales-app
-Power Apps-based sales app with Power Automate and Power BI integration for sales tracking.
-
 # 👟 SoleStyle Sales App – Power Platform Project
 
 This project was developed as part of the **Microsoft Power Up Program**. It simulates a small-scale inventory and sales system for a fictional shoe store, **SoleStyle**, using Power Platform tools: **Power Apps**, **Power Automate**, and **Power BI**.
@@ -28,7 +25,7 @@ The app streamlines the sales and inventory process for a small business:
 
 ## 🎥 Project Demo
 
-> 🎥 [Download Walkthrough Video](Power%20Platform%20Walkthrough.mp4)
+> 🎥 [Download Walkthrough Video](Power%20Platform%20Walkthrough.mp4) > 📹 [Walkthrough Video](#) *(https://youtu.be/bPOrDhphEek)*
 
 
 ---
